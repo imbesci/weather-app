@@ -10,4 +10,4 @@ My react learning method was only through official react documentation as I want
 ![Degree toggle](https://thumbs.gfycat.com/GorgeousSoggyJabiru-size_restricted.gif "Degree toggling")
 
 
-![Location Pulling](  https://thumbs.gfycat.com/BossyScornfulGalago-size_restricted.gif "Location pulling")
+![Location Pulling](https://thumbs.gfycat.com/BossyScornfulGalago-size_restricted.gif "Location pulling")
